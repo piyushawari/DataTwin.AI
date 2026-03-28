@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 About The Project  
+## About The Project  
 
 In modern AI systems, accessing real-world data is challenging due to privacy concerns and regulations. This creates a gap between data availability and data security.
 
